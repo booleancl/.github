@@ -1,7 +1,7 @@
 # Escuela de programación Boolean
  <img align="left" src="https://res.cloudinary.com/boolean-spa/image/upload/v1627963402/TESTS_FULLSTACK_i6bbuh.png" alt="Escuela Boolean" width="350px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola, somos Escuela de Programación Boolean. Aceleramos tu curva de aprendizaje para digitalizar tu carrera. 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hola, somos Escuela de Programación Boolean. Aceleramos tu curva de aprendizaje para digitalizar tu carrera. 
 
 Nos enfocamos en hacer laboratorios prácticos de:
 
